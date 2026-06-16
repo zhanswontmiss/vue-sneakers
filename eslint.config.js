@@ -20,7 +20,7 @@ export default defineConfig([
       },
     },
     rules: {
-      'vue/multi-word-component-names': 'off'
+      'vue/multi-word-component-names': 'false'
     }
   },
 
